@@ -1,0 +1,16 @@
+System Requirement Specifications:
+
+*Purpose*- automate the voting system which maintains Information systems in order to maintain data about the voters and their casting information.Also to provide easy method of voting where they can cast their votes by just accessing the website with proper credentials.
+
+1.Admin Module:this module tells about an automated ballot vote department who are conducting elections in our country.By using this module Automated Ballot Vote can release election Schedule. It can also reset information for next elections.
+
+2.User Module:this module tells all about voters.By using this module any citizen who is crossing 18 years age can register their names to get electoral authentication and also they can go for online voting. 
+Sub-modules->
+Voter Id Application:by using this module user will get authentication Bt providing his/her details.By using this authentication they can go for online voting also.
+-Voters Registration:user can register to get authentication.After completion of registration user will get a unique voter id. 
+-Online Voting:user can use their electoral authentication by providing voter id. 
+-Reports:user will go for different types of enquiries 
+     -voters enquiry:see & edit own details provided at the time of registration.
+     -result enquiry:check the election results.
+     -schedule enquiry:check the election schedule.
+     -voters list:check overall registered users.
